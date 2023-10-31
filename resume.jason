@@ -1,0 +1,27 @@
+{
+    "name": "Dinesh waran",
+    "contact": {
+      "email": "dineshbaranikumar@gmail.com",
+      "phone": "9150435898",
+      "address": "No 4/149 barathi chellamal nagar singaperumalkoil chengalpet distrist pin 603204"
+    },
+    "summary": "Experienced software engineer with a passion for building innovative and efficient solutions. Skilled in multiple programming languages and dedicated to continuous learning.",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "Sathyabama Institute Of Science And Technology",
+        "location": "Chennai, Tamil Nadu",
+        "graduation_year": "2023"
+      }
+    ],
+    "skills": [
+      "Programming Languages: Java, Python, C++",
+      "Web Development: HTML, CSS, JavaScript",
+      "Frameworks: React, Spring Boot",
+      "Database: SQL, MongoDB",
+      "Version Control: Git",
+      "Agile Development",
+      "Problem Solving",
+      "Team Leadership"
+    ]
+  }
